@@ -1,0 +1,5 @@
+package br.com.cotiinformatica.infrastructure.repositories;
+
+public interface LogMensagemRepository {
+
+}
